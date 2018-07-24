@@ -1,0 +1,5 @@
+1 - configurar o local
+2 - configurar a estrutura de pastas / template
+3 - criar o database /phpmyadmin
+4 - fazer conexáo com banco de dados
+5 - includes, header footer 
